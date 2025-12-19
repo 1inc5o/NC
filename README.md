@@ -1,6 +1,6 @@
 # NC (Need Check)
 
-![Logo](<img width="2048" height="2048" alt="nc" src="https://github.com/user-attachments/assets/f96751a8-eea4-4001-82bf-e7b466e9a846" />)
+<img width="2048" height="2048" alt="nc" src="https://github.com/user-attachments/assets/f96751a8-eea4-4001-82bf-e7b466e9a846" />
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
