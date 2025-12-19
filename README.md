@@ -75,6 +75,8 @@ NC（Need Check）是一款面向应急响应场景的本地排查工具：以�
 - `gopsutil`
 - `golang-evtx`
 - Zircolite / Chainsaw 规则生态（用于检测思路与规则参考）
+- Hawkeye 界面、功能设计参考
+- LogForensics web日志检测
 
 ## 反馈与贡献
 
