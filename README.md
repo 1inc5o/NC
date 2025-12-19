@@ -1,7 +1,6 @@
 # NC (Need Check)
 
-<img width="2048" height="2048" alt="nc" src="https://github.com/user-attachments/assets/f96751a8-eea4-4001-82bf-e7b466e9a846" />
-
+<img width="1502" height="1304" alt="image" src="https://github.com/user-attachments/assets/9b2cfb06-b51e-4937-9fa8-58dc619404d7" />
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 ![Build](https://img.shields.io/badge/build-Electron%20%2B%20Go-informational.svg)
